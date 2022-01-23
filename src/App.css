@@ -1,0 +1,8 @@
+.container{
+  background-color: aqua;
+  display:flex;
+ justify-content: space-between;
+  width:700px;
+  margin:auto;
+  padding:10px;
+}
